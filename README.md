@@ -13,6 +13,10 @@ Course material for AIcademy (Sept. 29-30, 2023)
 - [Text Mining and an Introduction to Natural Language Processing](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Text-Mining-and-NLP-introduction.pdf)
 - [Deep Learning, Neural Networks and CNNs](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Text-Mining-and-NLP-introduction.pdf)
 
+### Neural Network Visualization
+- [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
+
+
 
 
 
