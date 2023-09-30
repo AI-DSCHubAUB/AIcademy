@@ -9,6 +9,10 @@ Course material for AIcademy (Sept. 29-30, 2023)
 
 ### Slides
 - [Introduction, Model Building, Linear Regression](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Introduction-Linear-Regression-and-Model-Building.pdf)
+- [Unsupervised Learning, Clustering, DBSCAN](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Clustering-with-DBSCAN.pdf)
+- [Text Mining and an Introduction to Natural Language Processing](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Text-Mining-and-NLP-introduction.pdf)
+- [Deep Learning, Neural Networks and CNNs](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Text-Mining-and-NLP-introduction.pdf)
+
 
 
 
