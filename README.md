@@ -16,10 +16,10 @@ and learn about Artificial Intelligence at the American Univeristy of Beirut
 - [Text Mining and an Introduction to Natural Language Processing](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Text-Mining-and-NLP-introduction.pdf)
 - [Deep Learning, Neural Networks and CNNs](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/slides/Text-Mining-and-NLP-introduction.pdf)
 
-(c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
 ### Neural Network Visualization
 - [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
 
+(c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
 
 
 
