@@ -2,7 +2,8 @@
 Course material for AIcademy 2023 (Sept. 29-30)
 
 AIcademy is an event for High School students to discover
-and learn about Artificial Intelligence at the American Univeristy of Beirut
+and learn about Artificial Intelligence at the American Univeristy of Beirut.
+
 The event is organized by the Artificial Intelligence, Data Sciene, and Computing Hub
 
 ### What is AI? 
