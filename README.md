@@ -26,6 +26,8 @@ The event is organized by the Artificial Intelligence, Data Sciene, and Computin
 ### Neural Network Visualization
 - [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
 
+### Additional Resources:
+- [](https://github.com/AI-DSCHubAUB/AIcademy/C:/Users/lt25/Downloads/Additional Resources.pdf)
 
   
 (c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
