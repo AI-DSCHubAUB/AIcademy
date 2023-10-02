@@ -1,5 +1,5 @@
 # AIcademy
-Course material for AIcademy 2023 (Sept. 29-30)
+Course material for the 1st Cohort of AIcademy (Sept. 29-30, 2023)
 
 AIcademy is an event for High School students to discover
 and learn about Artificial Intelligence at the American Univeristy of Beirut.
