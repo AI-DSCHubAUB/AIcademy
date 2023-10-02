@@ -22,7 +22,7 @@ and learn about Artificial Intelligence at the American Univeristy of Beirut
 ### Additional Resources
 - [A Brief History of Artificial Intelligence - BootstrapsLab](https://www.youtube.com/watch?v=056v4OxKwlI)
 - [What is Artificial Intelligence? - Simplilearn](https://www.youtube.com/watch?v=uMzUB89uSxU)
-- [What is Artificial Intelligence ?For People In a Hurry! - Foryanto Jaya Wiguna](https://www.youtube.com/watch?v=GzUU-72A98Y)
+- [What is Artificial Intelligence? For People In a Hurry! - Foryanto Jaya Wiguna](https://www.youtube.com/watch?v=GzUU-72A98Y)
   
 (c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
 
