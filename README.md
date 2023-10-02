@@ -1,9 +1,15 @@
 # AIcademy
 Course material for AIcademy 2023 (Sept. 29-30)
 
-AIcademy is an event for High School and Freshmen students to discover
+AIcademy is an event for High School students to discover
 and learn about Artificial Intelligence at the American Univeristy of Beirut
+The event is organized by the Artificial Intelligence, Data Sciene, and Computing Hub
 
+### What is AI? 
+- [A Brief History of Artificial Intelligence - BootstrapsLab](https://www.youtube.com/watch?v=056v4OxKwlI)
+- [What is Artificial Intelligence? - Simplilearn](https://www.youtube.com/watch?v=uMzUB89uSxU)
+- [What is Artificial Intelligence? For People In a Hurry! - Foryanto Jaya Wiguna](https://www.youtube.com/watch?v=GzUU-72A98Y)
+  
 ### Notebooks
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-DSCHubAUB/AIcademy/blob/main/notebooks/AUB_AI_linreg_model_build.ipynb#create=true) Linear Regression Notebook
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI-DSCHubAUB/AIcademy/blob/main/notebooks/AUB_AI_text.ipynb#create=true) Text Mining (NLP) Notebook
@@ -19,10 +25,7 @@ and learn about Artificial Intelligence at the American Univeristy of Beirut
 ### Neural Network Visualization
 - [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
 
-### Additional Resources
-- [A Brief History of Artificial Intelligence - BootstrapsLab](https://www.youtube.com/watch?v=056v4OxKwlI)
-- [What is Artificial Intelligence? - Simplilearn](https://www.youtube.com/watch?v=uMzUB89uSxU)
-- [What is Artificial Intelligence? For People In a Hurry! - Foryanto Jaya Wiguna](https://www.youtube.com/watch?v=GzUU-72A98Y)
+
   
 (c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
 
