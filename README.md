@@ -1,5 +1,5 @@
 # AIcademy
-Course material for the 1st Cohort of AIcademy (Sept. 29-30, 2023)
+Course material for the 1st Cohort of AIcademy **(Sept. 29-30, 2023)**
 
 AIcademy is an event for High School students to discover
 and learn about Artificial Intelligence at the American Univeristy of Beirut.
@@ -25,6 +25,9 @@ The event is organized by the Artificial Intelligence, Data Sciene, and Computin
 
 ### Neural Network Visualization
 - [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
+
+### Additional Resources
+- [A list of resources to explore](https://github.com/AI-DSCHubAUB/AIcademy/blob/ffb8c7e9da59872203c6cbbe6bca1b671f884fa8/Additional%20Resources/Additional%20Resources.pdf)
 
 
   
