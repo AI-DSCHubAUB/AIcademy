@@ -19,6 +19,8 @@ and learn about Artificial Intelligence at the American Univeristy of Beirut
 ### Neural Network Visualization
 - [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
 
+### Additional Resources
+- [A Brief History of Artificial Intelligence - BootstrapsLab](https://www.youtube.com/watch?v=056v4OxKwlI)
 (c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
 
 
