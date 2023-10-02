@@ -27,7 +27,7 @@ The event is organized by the Artificial Intelligence, Data Sciene, and Computin
 - [Video](https://github.com/AI-DSCHubAUB/AIcademy/blob/main/numbers.mov)
 
 ### Additional Resources:
-- [A list of resources you can explore](https://github.com/AI-DSCHubAUB/AIcademy/C:/Users/lt25/Downloads/AdditionalResources.pdf)
+- [A list of resources you can explore](https://github.com/AI-DSCHubAUB/AIcademy/r"C:/Users/lt25/Downloads/AdditionalResources.pdf")
 
   
 (c) Thomas Haschka, Layal Tannous, Ranam Hamoud, Hadi Al Khansa and Mariette Awad, American University of Beirut, Beirut 2023 
